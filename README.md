@@ -1,0 +1,1 @@
+基于深度学习模型(UnixCoder)实现代码搜索功能，并在 VSCode 平台为用户提供服务。利用 VSCode API 中的 WebviewPanel 展示搜索结果。
